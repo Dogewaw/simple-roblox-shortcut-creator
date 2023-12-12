@@ -1,0 +1,10 @@
+{
+    "data": [
+        {
+            "targetId": 0,
+            "state": "Error",
+            "imageUrl": "string",
+            "version": null
+        }
+    ]
+}
